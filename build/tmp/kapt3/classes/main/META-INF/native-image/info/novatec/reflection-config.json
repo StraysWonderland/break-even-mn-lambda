@@ -1,0 +1,16 @@
+[ {
+  "name" : "info.novatec.BreakEvenRequest",
+  "allDeclaredFields" : true,
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "info.novatec.BreakEvenResponse",
+  "allDeclaredFields" : true,
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "info.novatec.BreakEvenRequestHandler",
+  "allDeclaredFields" : true,
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+} ]
